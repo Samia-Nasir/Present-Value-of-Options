@@ -1,0 +1,14 @@
+date,asset_class,currency,foreign_currency,name,spot value,volatilty,comment
+2021-08-31,FX,SEK,USD,,8.58,,fx spot rate to convert from USD to SEK
+2021-08-31,FX,USD,EUR,,1.19,,fx spot rate
+2021-08-31,FX,EUR,GBP,,1.17,,fx spot rate
+2021-08-31,IR,EUR,,,0.015,,"constant annual interest rate, continuously compounded"
+2021-08-31,IR,SEK,,,0.01,,"constant annual interest rate, continuously compounded"
+2021-08-31,IR,USD,,,0.02,,"constant annual interest rate, continuously compounded"
+2021-08-31,IR,GBP,,,0.25,,"constant annual interest rate, continuously compounded"
+2021-08-31,EQUITY,SEK,,ABB,322,0.11,
+2021-08-31,EQUITY,USD,,Apple,152.72,0.23,
+2021-08-31,EQUITY,,,,,,
+2021-08-31,COMMODITY,USD,,Gold,1809.68,0.14,
+2021-08-31,COMMODITY,USD,,Silver,23.9,0.26,
+2021-08-31,COMMODITY,USD,,Brent Crude,72.17,0.15,
