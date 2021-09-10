@@ -1,0 +1,2 @@
+# Present Value of Options
+ The excel file contains trade economics for two options and the task is to calculate the present value for each of them using standard models. The options are price with Mark-to-market date 2021-08-31, which basically means calculate the present value on 2021-08-31 (the market data should be assumed to be closing prices for that date). The two modles used fro pricing options are Black-Scholes Option Pricing Model and Binomial Model
